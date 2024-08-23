@@ -6,4 +6,4 @@ collaterals
 illustration Graphic
 Word Document
 Gif Animation
-Product Vedio
+Product Video
